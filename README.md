@@ -4,6 +4,7 @@ Privacy Policy, Terms of Use, and EULA for iOS applications published by Matthew
 
 ## Live Documents
 
+- **Support & FAQ:** https://mbarge0.github.io/ios-apps/support.html
 - **Privacy Policy:** https://mbarge0.github.io/ios-apps/privacy.html
 - **Terms of Use:** https://mbarge0.github.io/ios-apps/terms.html
 - **EULA:** https://mbarge0.github.io/ios-apps/eula.html
